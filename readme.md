@@ -1,6 +1,5 @@
-<h1 align="center">Hello, Ivan here.<img src='mew2.gif' width="80"/></h2>
+<h1 align="center">😴 Hello, Ivan here. <img src='mew2.gif' width="80"/></h2>
 
-<img src='mew.gif' width="100"/>
   
   <br><br>
 
@@ -12,6 +11,8 @@
     <a href="https://github.com/search?l=HTML&q=user%3Aitong6+language%3Anhtml&type=Repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <a href="https://github.com/search?l=JavaScript&q=user%3Aitong6+language%3Anhtml&type=Repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itong6)](https://git.io/streak-stats)
 
 <!--
 **MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
