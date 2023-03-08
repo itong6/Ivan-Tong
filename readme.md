@@ -3,7 +3,7 @@
 - 💻 A designer with front-end knowledge.
 - 📚 Current student at BCIT
 - ⚡ Fun fact: A group of crows are called a murder. 
-
+<h2>My Pokemon Team 🎮</h2>
 <div>
 <img src='mewtwo.gif' width="100"/>
 <img src='charzard.gif' width="100"/>
@@ -11,6 +11,7 @@
 <img src='giratina.gif' width="100"/>
 <img src='darkrai.gif' width="100"/>
 <img src='snorlax.gif' width="100"/>
+<br><br>
 <h2>🤫 shhhhh don't wake up mew 😴 </h2> <img src='mew2.gif' width="80"/>
 <div>
   
