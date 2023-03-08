@@ -1,10 +1,10 @@
-<h1 align="center"> 🫡Hello, Ivan here.😼</h2>
+<h1 align="center"> 🐣 Hello, Ivan here. 👻</h2>
     
-- 🔭 A designer with front-end knowledge.
-- 🌱 Exploring UI frameworks.
+- 💻 A designer with front-end knowledge.
+- 📚 Current BCIT student
 - ⚡ Fun fact: A group of crows are called a murder. 
 
-<div align="center">
+<div>
 <img src='snorlax.gif' width="100"/>
  <img src='mew2.gif' width="80"/>
 <div>
