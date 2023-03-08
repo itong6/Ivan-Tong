@@ -5,7 +5,13 @@
 - ⚡ Fun fact: A group of crows are called a murder. 
 
 <div>
+<img src='mewtwo.gif' width="100"/>
+<img src='charzard.gif' width="100"/>
+<img src='dragonite' width="100"/>
+<img src='giratina' width="100"/>
+<img src='darkrai' width="100"/>
 <img src='snorlax.gif' width="100"/>
+<h2>🤫 shhhhh don't wake up mew 😴 </h2>
  <img src='mew2.gif' width="80"/>
 <div>
   
