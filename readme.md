@@ -1,10 +1,9 @@
-<h1 align="center">😴 Hello, Ivan here. <img src='mew2.gif' width="80"/></h2>
+<h1 align="center"><img src='snorlax.gif' width="70"/> Hello, Ivan here. <img src='mew2.gif' width="80"/></h2>
     
 - 🔭 A designer with front-end knowledge.
 - 🌱 Exploring UI frameworks.
 - ⚡ Fun fact: A group of crows are called a murder. 
 
-<img src='snorlax.gif' width="100"/>
   
   <br><br>
 
