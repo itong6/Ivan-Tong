@@ -1,7 +1,7 @@
 <h1 align="center"> 🐣 Hello, Ivan here. 👻</h2>
     
 - 💻 A designer with front-end knowledge.
-- 📚 Current BCIT student
+- 📚 Current student at BCIT
 - ⚡ Fun fact: A group of crows are called a murder. 
 
 <div>
