@@ -1,7 +1,9 @@
 <h1 align="center"> 🐣 Hello, Ivan here. 👻</h2>
     
+<h2>About me</h2>
 - 💻 A designer with front-end knowledge.
-- 📚 Current student at BCIT
+- 📚 Current student at BCIT.
+- 🌧️ I like rainy days.
 - ⚡ Fun fact: A group of crows are called a murder. 
 <br><br>
 <h2>My Pokemon Team 🎮</h2>
@@ -26,7 +28,9 @@
       <a href="https://github.com/search?l=JavaScript&q=user%3Aitong6+language%3Anhtml&type=Repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>🤫 shhhhh don't wake up Mew 😴 </h2> <img src='mew2.gif' width="100"/>
+  <br><br>
+
+<h2>🤫 Shhhhh don't wake up Mew 😴 </h2> <img src='mew2.gif' width="100"/>
 
 
 
