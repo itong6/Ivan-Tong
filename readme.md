@@ -1,5 +1,10 @@
 <h1 align="center">😴 Hello, Ivan here. <img src='mew2.gif' width="80"/></h2>
+    
+- 🔭 A designer with front-end knowledge.
+- 🌱 Exploring UI frameworks.
+- ⚡ Fun fact: A group of crows are called a murder. 
 
+<img src='snorlax.gif' width="100"/>
   
   <br><br>
 
@@ -12,7 +17,7 @@
       <a href="https://github.com/search?l=JavaScript&q=user%3Aitong6+language%3Anhtml&type=Repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itong6)](https://git.io/streak-stats)
+
 
 <!--
 **MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
