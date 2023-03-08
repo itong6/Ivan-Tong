@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Ivan here.<img src='squirtle.gif' width="80"/></h2>
+<h1 align="center">Hello, Ivan here.<img src='mew2.gif' width="80"/></h2>
 
 <img src='mew.gif' width="100"/>
   
