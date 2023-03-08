@@ -6,7 +6,7 @@
 - 🌧️ Enjoys rainy days.
 - ⚡ Fun fact: A group of crows are called a murder. 
 <br><br>
-<h2>My Pokemon Team 🎮</h2>
+<h2>My Pokemon Team  🎮</h2>
 <div>
 <img src='mewtwo.gif' width="100"/>
 <img src='charzard.gif' width="100"/>
