@@ -1,6 +1,6 @@
 <h1 align="center"> 🐣 Hello, Ivan here. 👻</h2>
     
-<h2>About me</h2>
+
 - 💻 A designer with front-end knowledge.
 - 📚 Current student at BCIT.
 - 🌧️ I like rainy days.
