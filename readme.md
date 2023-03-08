@@ -3,7 +3,7 @@
 
 - 💻 A designer with front-end knowledge.
 - 📚 Current student at BCIT.
-- 🌧️ I like rainy days.
+- 🌧️ Enjoys rainy days.
 - ⚡ Fun fact: A group of crows are called a murder. 
 <br><br>
 <h2>My Pokemon Team 🎮</h2>
